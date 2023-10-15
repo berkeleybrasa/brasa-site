@@ -1,0 +1,41 @@
+#navbar-title{
+    width: 240px;
+    height: 29px;
+    top: 19px;
+    left: 98px;
+    color: rgba(0, 55, 105, 1);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-decoration: none;
+}
+.navbar-text{
+    margin: 0px;
+    padding: 0px;
+    width: 102 px;
+    height: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    color: rgba(0, 55, 105, 1);
+    text-decoration: none;
+}
+
+.navbar-nav{
+    width: Fixed (709px);
+    height: Fixed (40px);
+    top: 23px;
+    left: 371px;
+    gap: 40px;   
+
+}
+
+.navbar{
+    width: 1281px;
+    height: 66px;
+}
