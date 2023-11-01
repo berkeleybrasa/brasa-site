@@ -1,6 +1,6 @@
 {
   "name": "brasa-website",
-  "homepage": "https://berkeleybrasa.github.io/brasa-site/brasa-website-vite/src/index.html",
+  "homepage": "https://berkeleybrasa.github.io/brasa-site",
   "private": true,
   "version": "0.0.0",
   "type": "module",
