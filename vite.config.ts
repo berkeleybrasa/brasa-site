@@ -11,7 +11,7 @@ export default defineConfig({
   base: "/brasa-site",
   root,
   plugins: [react()],
-  assetsInclude: [resolve(root, 'assets', 'brasa-logo.png')],
+  publicDir: resolve(root, 'assets'),
   build: {
     outDir,
     emptyOutDir: true,
