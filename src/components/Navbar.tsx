@@ -8,12 +8,12 @@ function Navbar(){
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
                 <a className="active" id="navbar-title" aria-current="page" href="../index.html">BRASA BERKELEY</a>
-                <a className="navbar-text" href="brasa-site/src/EmConstrucao/index.html">Sobre</a>
-                <a className="navbar-text" href="../EmConstrucao/index.html">Eventos</a>
-                <a className="navbar-text" href="../EmConstrucao/index.html">Envolva-se</a>
-                <a className="navbar-text" href="../Membros/index.html">Membros</a>
-                <a className="navbar-text" href="../EmConstrucao/index.html">Recursos</a>
-                <a className="navbar-text" href="../EmConstrucao/index.html">Apoie</a>
+                <a className="navbar-text" href="/src/EmConstrucao/index.html">Sobre</a>
+                <a className="navbar-text" href="/src/EmConstrucao/index.html">Eventos</a>
+                <a className="navbar-text" href="/src/EmConstrucao/index.html">Envolva-se</a>
+                <a className="navbar-text" href="/src/Membros/index.html">Membros</a>
+                <a className="navbar-text" href="/src/EmConstrucao/index.html">Recursos</a>
+                <a className="navbar-text" href="/src/EmConstrucao/index.html">Apoie</a>
             </div>
             </div>
         </div>
