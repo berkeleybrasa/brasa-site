@@ -7,7 +7,7 @@ function Navbar(){
             </button>
             <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav">
-                <a className="active" id="navbar-title" aria-current="page" href="/index.html">BRASA BERKELEY</a>
+                <a className="active" id="navbar-title" aria-current="page" href="brasa-site/index.html">BRASA BERKELEY</a>
                 <a className="navbar-text" href="/src/EmConstrucao/index.html">Sobre</a>
                 <a className="navbar-text" href="/src/EmConstrucao/index.html">Eventos</a>
                 <a className="navbar-text" href="/src/EmConstrucao/index.html">Envolva-se</a>
