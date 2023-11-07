@@ -16,9 +16,9 @@ export default defineConfig({
     emptyOutDir: true,
     rollupOptions:{
       input:{
-        main: resolve(base, root, 'index.html'),
-        membros: resolve(base, root, 'Membros', 'index.html'),
-        emconstrucao: resolve(base, root, 'EmConstrucao', 'index.html')
+        main: resolve(root, 'index.html'),
+        membros: resolve(root, 'Membros', 'index.html'),
+        emconstrucao: resolve(root, 'EmConstrucao', 'index.html')
       }
     }
   }
