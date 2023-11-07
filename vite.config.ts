@@ -7,7 +7,7 @@ const outDir = resolve(__dirname, 'dist')
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/brasa-site/src/",
+  base: "/brasa-site/",
   root,
   plugins: [react()],
   build: {
