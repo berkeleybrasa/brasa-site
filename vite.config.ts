@@ -2,7 +2,8 @@ import { resolve } from 'path'
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-const base = resolve(__dirname, 'brasa-site')
+
+
 const root = resolve(__dirname, 'src')
 const outDir = resolve(__dirname, 'dist')
 
@@ -11,7 +12,7 @@ export default defineConfig({
   base: "/brasa-site",
   root,
   plugins: [react()],
-  publicDir: resolve(root, 'assets'),
+  assetsInclude: [resolve(root, 'assets', 'brasa-logo.png)],
   build: {
     outDir,
     emptyOutDir: true,
