@@ -12,7 +12,7 @@ export default defineConfig({
   base: "/brasa-site",
   root,
   plugins: [react()],
-  assetsInclude: [resolve('assets', 'brasa-logo.png')],
+  assetsInclude: ["/brasa-site/src/assets/brasa-logo.png"],
   build: {
     outDir,
     emptyOutDir: true,
