@@ -8,6 +8,7 @@ import '../components/components.css'
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <Navbar/>
-    <PersonCard title ='Cal Mascot' name = "Oski" image = "../assets/dfr7_4Kn_400x400.jpg" LinkedIn_link = "https://twitter.com/Oski"/>
+    <PersonCard title ='Co-President' name = "Ana Catharina Resende Quartiero" image = "/brasa-site/assets/foto-caca.png" LinkedIn_link = "linkedin.com/in/catharina-quartiero"/>
+    <PersonCard title ='Co-President' name = "Oski" image = "/brasa-site/assets/oski.jpg" LinkedIn_link = "linkedin.com/"/>
   </React.StrictMode>,
 )

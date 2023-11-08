@@ -2,7 +2,7 @@
   color: rgba(0, 55, 105, 1);
   font-family: 'Montserrat';
   font-style: normal;
-  font-size: 80px;
+  font-size: 70px;
   margin: 50px;
   display: flex;
   justify-content: center;
@@ -21,16 +21,25 @@
   text-align: center;
   text-justify: inter-word;
   color: rgba(0, 55, 105, 1); 
-  font-size: 21px;
+  font-size: 20px;
+  padding-bottom: 50px;
+  padding-top: 70px;
+  height: 400px;
+}
+
+h1 {
+  font-size: 70px;
 }
 
 #image-gallery {
-  
   text-align: center;
   font-family: 'Montserrat';
   font-style: normal;
-  margin: 50px;
-  color: rgba(0, 55, 105, 1);
+  font-size: 70px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  color: #fafafa;
+  background-color: #003769;
 }
 
 #images {
@@ -39,14 +48,37 @@
   align-items: center;
 }
 
+#faca-parte {
+  font-family: 'Montserrat';
+  font-style: normal;
+  text-align: center;
+  text-justify: inter-word;
+  font-size: 20px;
+  padding-bottom: 100px;
+  padding-top: 40px;
+  color: #fafafa;
+  background-color: #76B241;
+  height: 300px;
+}
+
 .insta {
   width: 400px;
   height: 400px;
   margin: 10px;
 }
 
+#button {
+  background-color: #F6C227;
+  color: #003769;
+  padding: 5px 11px;
+  border-style: 2px solid;
+  border-radius: 40px;
+  text-decoration: none;
+  padding: 10px;
+}
+
 footer {
-  background-color: rgba(0, 55, 105, 1);
+  background-color: #032650;
   color: white;
   padding: 1rem;
   text-align: center;
