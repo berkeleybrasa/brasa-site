@@ -11,7 +11,7 @@ function Navbar(){
                 <a className="navbar-text" href="#description">Sobre</a>
                 <a className="navbar-text" href="#image-gallery">Posts Recentes</a>
                 <a className="navbar-text" href="#faca-parte">Envolva-se</a>
-                <a className="navbar-text" href="/brasa-site/Membros/index.html">Membros</a>
+                <a className="navbar-text" href="/brasa-site/EmConstrucao/index.html">Membros</a>
                 <a className="navbar-text" href="/brasa-site/EmConstrucao/index.html">Recursos</a>
                 <a className="navbar-text" href="/brasa-site/EmConstrucao/index.html">Apoie</a>
             </div>
